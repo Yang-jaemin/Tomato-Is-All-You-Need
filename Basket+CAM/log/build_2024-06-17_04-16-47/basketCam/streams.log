@@ -1,0 +1,29 @@
+[0.381s] Invoking command in '/home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam': PYTHONPATH=/home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/prefix_override:/home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/build --no-deps symlink_data
+[0.524s] running develop
+[0.524s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.524s]   warnings.warn(
+[0.616s] running egg_info
+[0.616s] creating basketCam.egg-info
+[0.616s] writing basketCam.egg-info/PKG-INFO
+[0.616s] writing dependency_links to basketCam.egg-info/dependency_links.txt
+[0.616s] writing entry points to basketCam.egg-info/entry_points.txt
+[0.616s] writing requirements to basketCam.egg-info/requires.txt
+[0.616s] writing top-level names to basketCam.egg-info/top_level.txt
+[0.616s] writing manifest file 'basketCam.egg-info/SOURCES.txt'
+[0.617s] reading manifest file 'basketCam.egg-info/SOURCES.txt'
+[0.617s] writing manifest file 'basketCam.egg-info/SOURCES.txt'
+[0.618s] running build_ext
+[0.618s] Creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/lib/python3.10/site-packages/basketCam.egg-link (link to .)
+[0.619s] 
+[0.619s] Installed /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam
+[0.619s] running symlink_data
+[0.619s] creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/ament_index
+[0.619s] creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/ament_index/resource_index
+[0.619s] creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/ament_index/resource_index/packages
+[0.619s] symbolically linking /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/resource/basketCam -> /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/ament_index/resource_index/packages
+[0.619s] symbolically linking /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/package.xml -> /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/basketCam
+[0.619s] creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/basketCam/launch
+[0.619s] symbolically linking /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/launch/cam.launch.py -> /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/basketCam/launch
+[0.619s] creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/basketCam/urdf
+[0.619s] symbolically linking /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/urdf/cam.xacro -> /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/basketCam/urdf
+[0.635s] Invoked command in '/home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam' returned '0': PYTHONPATH=/home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/prefix_override:/home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/build --no-deps symlink_data

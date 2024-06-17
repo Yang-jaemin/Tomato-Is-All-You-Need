@@ -1,0 +1,27 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+creating basketCam.egg-info
+writing basketCam.egg-info/PKG-INFO
+writing dependency_links to basketCam.egg-info/dependency_links.txt
+writing entry points to basketCam.egg-info/entry_points.txt
+writing requirements to basketCam.egg-info/requires.txt
+writing top-level names to basketCam.egg-info/top_level.txt
+writing manifest file 'basketCam.egg-info/SOURCES.txt'
+reading manifest file 'basketCam.egg-info/SOURCES.txt'
+writing manifest file 'basketCam.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/lib/python3.10/site-packages/basketCam.egg-link (link to .)
+
+Installed /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam
+running symlink_data
+creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/ament_index
+creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/ament_index/resource_index
+creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/ament_index/resource_index/packages
+symbolically linking /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/resource/basketCam -> /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/ament_index/resource_index/packages
+symbolically linking /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/package.xml -> /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/basketCam
+creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/basketCam/launch
+symbolically linking /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/launch/cam.launch.py -> /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/basketCam/launch
+creating /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/basketCam/urdf
+symbolically linking /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/build/basketCam/urdf/cam.xacro -> /home/juwon/ros2HW/Tomato-Is-All-You-Need/Basket+CAM/install/basketCam/share/basketCam/urdf
