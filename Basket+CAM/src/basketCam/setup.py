@@ -18,13 +18,15 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='juwon',
-    maintainer_email='77627794+ARDUINO33@users.noreply.github.com',
-    description='TODO: Package description',
+    maintainer='yang',
+    maintainer_email='gkskaflxmf@naver.com',
+    description='basket + cam',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'SegAnd3D = basketCam.SegAnd3D_node:main',
+            'DepthCam = basketCam.DepthCam_node:main',
         ],
     },
 )

@@ -24,12 +24,12 @@ class SegAnd3DNode(Node):
         self.action_client = ActionClient(self, MoveToPosition, 'move_to_position')
 
         # 카메라 인트린식 파라미터 (예시 값)
-        self.fx = 525.0  # 초점 거리 x
-        self.fy = 525.0  # 초점 거리 y
-        self.cx = 319.5  # 카메라 중심 x
-        self.cy = 239.5  # 카메라 중심 y
+        self.fx = 579.41  # 초점 거리 x
+        self.fy = 525.41  # 초점 거리 y
+        self.cx = 320.0  # 카메라 중심 x
+        self.cy = 320.0  # 카메라 중심 y
 
-        # 카메라의 extrinsic 매트릭스 (예시 값)
+        # 카메라의 extrinsic 매트릭스 - 카메라 좌표 필요
         self.extrinsic_matrix = np.array([
             [1, 0, 0, 0],
             [0, 1, 0, 0],
