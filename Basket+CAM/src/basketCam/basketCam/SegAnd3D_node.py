@@ -1,8 +1,8 @@
 import rclpy
 from rclpy.node import Node
 from rclpy.action import ActionClient
-from example_interfaces.action import MoveToPosition
-from my_interfaces.srv import GetRgbDepth
+from pmt_interfaces.action import MoveToPosition
+from pmt_interfaces.srv import GetRgbDepth
 from cv_bridge import CvBridge
 from inference_sdk import InferenceHTTPClient
 import cv2

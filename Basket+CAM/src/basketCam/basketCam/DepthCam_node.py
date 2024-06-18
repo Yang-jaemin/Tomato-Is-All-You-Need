@@ -1,7 +1,7 @@
 import rclpy
 from rclpy.node import Node
 from sensor_msgs.msg import Image
-from my_interfaces.srv import GetRgbDepth
+from pmt_interfaces.srv import GetRgbDepth
 from cv_bridge import CvBridge
 from rclpy.qos import qos_profile_sensor_data
 
