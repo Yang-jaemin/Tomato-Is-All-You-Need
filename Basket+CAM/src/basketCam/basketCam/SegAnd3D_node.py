@@ -67,7 +67,7 @@ class SegAnd3DNode(Node):
         
         CLIENT = InferenceHTTPClient(
         api_url="https://detect.roboflow.com",
-        api_key="TsYL4fFK3xDuSKuMZk3a"
+        # api_key= 
         )
      
         result = CLIENT.infer(image_path, model_id="tomato-instance-segmentation-t2uhb/2")
